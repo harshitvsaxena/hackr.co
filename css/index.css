@@ -26,7 +26,7 @@
   height: 70vh;
 }
 .signup-container {
-  height: 60vh;
+  min-height: 60vh;
   font-family: "Assistant", sans-serif;
 }
 .signup-container h1 {
