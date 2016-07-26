@@ -8,7 +8,7 @@
   line-height: 1.2em;
 }
 .header p {
-  text-align: right;
+  text-align: left;
 }
 #firstCover {
   background-image: url("../img/cover1.gif");
